@@ -1,0 +1,6 @@
+===== Procédure d'installation de l'application sur un serveur tomcat =====
+
+Déplacer le fichier PanneSimulator2017.war dans le dossier webapps de tomcat.
+Lancer le script pannes.sql dans mysql.
+Lancer le serveur tomcat.
+Ouvrir dans un navigateur l'adresse localhost:8080/PanneSimulator2017/SimulateurServlet
